@@ -36,7 +36,7 @@ class binarySearch:
         midpoint=int((self.arrlen-1)/2)
         p=midpoint
         #print(midpoint)
-        d=True 
+        d=True  
         while d:
         #for j in range(5):
             #print('direction -: ',d)
